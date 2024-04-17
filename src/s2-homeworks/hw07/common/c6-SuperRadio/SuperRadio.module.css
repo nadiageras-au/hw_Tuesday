@@ -1,15 +1,26 @@
 .radio {
+    height: auto;
+    margin: 0;
 }
 
 .radio::before {
+    align-items: center;
 }
 
 
 .radio:checked::before {
+    align-items: center;
 }
 
 .label {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    line-height: 2;
+    gap: 10px;
 }
 
 .options {
+
 }

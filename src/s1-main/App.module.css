@@ -1,19 +1,21 @@
 .App {
-    /*--header_height: 60px;*/
-    padding-top: 130px;
 
 }
 .hwPage{
-    width: 900px;
-    margin: 0 auto;
+   /* width: 900px;*/
+    
 }
 .hw {
-
+    padding: 0 70px;
+    background-color: #faf9f9;
 }
 
 .hwTitle {
+    padding: 0 70px;
+    margin-top: 120px;
     font-family: 'Montserrat', sans-serif;
     font-size: 22px;
     font-weight: 600;
+    color: red;
     /*border-bottom: 2px solid #D9D9D9;*/
 }

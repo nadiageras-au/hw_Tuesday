@@ -1,5 +1,13 @@
 .buttonsContainer {
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttonsContainer #hw6Save {
+    background-color: #0066CC;
 }
 
 .editableSpanContainer {
+    margin-bottom: 20px;
 }
