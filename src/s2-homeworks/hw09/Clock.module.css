@@ -1,4 +1,7 @@
 .buttonsContainer {
+    display: flex;
+    width: 190px;
+    gap: 20px
 }
 
 .clock {
