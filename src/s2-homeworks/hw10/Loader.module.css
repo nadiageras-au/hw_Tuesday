@@ -1,3 +1,16 @@
 .loader {
     /*свг и/или анимация*/
+    height: 108px;
+    width: 108px;
+    border: 10px solid #fff;
+    border-right-color: #512DE4;
+    border-left-color: #e42d7f;
+    border-radius: 50%;
+    animation: rotate 1.5s linear infinite;
+}
+
+@keyframes rotate{
+    100% {
+        transform: rotate(360deg);
+    }
 }
