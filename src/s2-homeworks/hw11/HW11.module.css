@@ -2,18 +2,17 @@
 }
 
 .wrapper {
+    /*position:relative;*/
     display: flex;
-    width: 200px;
-    gap: 8px;
+    width: 260px;
+    gap: 12px;
     align-items: center;
 }
 
 .number {
+    /*position: absolute;*/
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     color: black;
     display: flex;
-    align-items: baseline;
-    justify-items: center;
-
 }
